@@ -8,6 +8,8 @@ Welcome to Arthur Sandpit's documentation!
 
 Branch-1
 
+Modify 2
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
