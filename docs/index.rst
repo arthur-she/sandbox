@@ -8,7 +8,7 @@ Welcome to Arthur Sandpit's documentation!
 
 lts-v2.8 branch
 
-lts-v2.8 patch 1
+lts-v2.8 patch 2
 
 .. toctree::
    :maxdepth: 2
