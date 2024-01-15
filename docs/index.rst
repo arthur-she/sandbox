@@ -6,7 +6,7 @@
 Welcome to Arthur Sandpit's documentation!
 ==========================================
 
-lts-v3.4 branch
+lts-v3.4.1 tag
 
 .. toctree::
    :maxdepth: 2
