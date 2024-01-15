@@ -10,7 +10,7 @@ Welcome to Arthur Sandpit's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-lts-v3.2 first commit
+lts-v3.2.1 first commit
 
 Indices and tables
 ==================
