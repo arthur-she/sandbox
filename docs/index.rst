@@ -6,6 +6,8 @@
 Welcome to Arthur Sandpit's documentation!
 ==========================================
 
+lts-v3.6.1
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
