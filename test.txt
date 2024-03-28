@@ -7,3 +7,5 @@ Trigger job
 Update master branch
 
 This is patch 3
+
+This is a patch for the master branch
