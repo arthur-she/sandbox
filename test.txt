@@ -1,10 +1,7 @@
 Test file
 Test push
-<<<<<<< PATCH SET (bf6258 Patch 1)
-=======
 Test 3
 Test 5
->>>>>>> BASE      (805c51 Update .readthedocs.yaml to install sphinx_rtd_theme)
 
 Trigger job
 Update master branch
